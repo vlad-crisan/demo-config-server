@@ -1,2 +1,2 @@
 global-config: Value to be used by all services
-string-value: 3
+int-value: 3
