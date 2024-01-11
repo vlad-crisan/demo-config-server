@@ -1,2 +1,5 @@
 int-value: 10
 string-value: my git value updated again and again
+FeatureManagement: {
+	WeatherControllerFeatureFlag: true
+}
