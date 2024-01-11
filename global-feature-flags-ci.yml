@@ -1,0 +1,3 @@
+FeatureManagement:
+    WeatherControllerFeatureFlag: true
+    TestControllerFeatureFlag: false
