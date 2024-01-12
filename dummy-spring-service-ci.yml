@@ -1,2 +1,3 @@
 int-value: 10
 string-value: updated value 3
+dummySpringServiceCiKey: dummy spring service value for CI env
