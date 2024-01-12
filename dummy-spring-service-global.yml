@@ -1,4 +1,3 @@
 FeatureManagement:
     WeatherControllerFeatureFlag: true
-
-string-value: string value from global profile
+    SecondaryFeatureFlag: false
