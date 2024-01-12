@@ -1,2 +1,3 @@
-globalPerEnvKey: global per env value
-netAppKey: netApp
+globalPerEnvKey: override in dotnet-app-ci
+definedInGlobalEnv: override in dotnet-app-ci
+simple-test-new: overridden in dotnet-app-ci
