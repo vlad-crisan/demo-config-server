@@ -1,3 +1,4 @@
 globalPerEnvKey: override in dotnet-app-ci
 definedInGlobalEnv: override in dotnet-app-ci
 simple-test-new: overridden in dotnet-app-ci
+global-config: overridden in dotnet-app-ci
