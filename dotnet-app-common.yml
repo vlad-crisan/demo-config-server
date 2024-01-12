@@ -1,0 +1,4 @@
+globalPerEnvKey: override in dotnet-app-common
+definedInGlobalEnv: override in dotnet-app-common
+simple-test-new: overridden in dotnet-app-common
+global-config: overridden in dotnet-app-common
