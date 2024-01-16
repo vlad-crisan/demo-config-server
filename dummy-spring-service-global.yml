@@ -1,3 +1,0 @@
-FeatureManagement:
-    WeatherControllerFeatureFlag: true
-    SecondaryFeatureFlag: false
