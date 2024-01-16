@@ -1,4 +1,1 @@
-globalPerEnvKey: override in dotnet-app-ci
-definedInGlobalEnv: override in dotnet-app-ci
-simple-test-new: overridden in dotnet-app-ci
-global-config: overridden in dotnet-app-ci
+dotnet-app-config: Value to be used by the application named 'dotnet-app' within CI environment set from most specific config file('dotnet-app-ci.yml')
