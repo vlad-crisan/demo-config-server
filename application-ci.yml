@@ -1,2 +1,1 @@
 env-config: Value to be used by all services within CI environment
-definedInGlobalEnv: defined in global env
