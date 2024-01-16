@@ -1,2 +1,1 @@
-global-config: Value to be used by all services
-int-value: 3
+global-config: Value to be used by all services across all environments
