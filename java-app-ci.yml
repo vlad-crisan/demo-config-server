@@ -1,1 +1,1 @@
-java-app-config: Value to be used by the application named 'java-app' within CI environment
+java-app-config: Value to be used by the application named 'java-app' within CI environment set from most specific config file('java-app-ci.yml')
