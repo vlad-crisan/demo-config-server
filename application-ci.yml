@@ -1,1 +1,2 @@
 env-config: Value to be used by all services within CI environment
+java-app-config: Value to be used by the application named 'java-app' within CI environment set from environment config file ('application-ci.yml')
